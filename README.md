@@ -1,6 +1,6 @@
 # 👋 Hello World! , I’m @Ourouimed
 - 👀 I’m a frontend web developper from morocco 🇲🇦
-- 🌱 I’m currently learning React js & Tailwind css
+- 🌱 I’m currently learning Php & Sql
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ourouimed&label=Profile%20views&color=0e75b6&style=flat" alt="ourouimed" /> </p>
